@@ -1,0 +1,44 @@
+.search {
+    background-color: rgb(248, 240, 240);
+    color: rgb(2, 170, 170);
+    border: 2px solid rgb(2, 170, 170);
+    border-radius: 20px;
+    width: 140px;
+    height: 25px;
+    font-family: monospace;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    padding-top: 3px;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.plus {
+    background-color: rgb(3, 214, 186);
+    color: white;
+    border-radius: 30px;
+    width: 40px;
+    height: 37px;
+    font-family: monospace;
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 3px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.account {
+    background-color: rgb(73, 130, 216);
+    color: white;
+    border: 2px solid black;
+    width: 180px;
+    height: 30px;
+    font-family: monospace;
+    text-align: center;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 4px;
+    margin-left: 70px;
+    margin-top: 15px;
+    box-shadow: 2px 2px 2px 1px black;
+}
